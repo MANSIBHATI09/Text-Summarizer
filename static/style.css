@@ -1,0 +1,38 @@
+/* Header Styling */
+header {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Jumbotron Styling */
+.jumbotron {
+    background-color: rgb(196, 209, 76);
+    color: white;
+    padding: 2rem;
+    border-radius: 0.5rem;
+}
+
+/* Text Card Styling */
+.card {
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.originalTxt {
+    background-color: #fbe8e8;
+    padding: 15px;
+    border-radius: 5px;
+    line-height: 1.6;
+}
+
+.summaryTxt {
+    background-color: #e6ffe6;
+    padding: 15px;
+    border-radius: 5px;
+    line-height: 1.6;
+    font-weight: bold;
+}
+
+/* Footer Styling */
+footer {
+    border-top: 1px solid #ccc;
+}
